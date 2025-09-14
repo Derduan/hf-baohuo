@@ -9,7 +9,7 @@ jobs:
   keepalive:
     runs-on: ubuntu-latest
     env:
-      URL: "https://eosskcc-243dhs.hf.space/"
+      URL: "https://eosskcc-914ccc.hf.space/"
       MAX_ATTEMPTS: 3
       BASE_SLEEP: 5
     steps:
